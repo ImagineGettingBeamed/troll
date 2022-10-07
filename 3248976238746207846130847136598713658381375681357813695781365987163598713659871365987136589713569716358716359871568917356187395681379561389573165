@@ -1,0 +1,175 @@
+while true do
+local args = {
+    [1] = "Bluefruit"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Berry"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Bloodfruit"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Jelly"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+
+--------------------------------------------------------------------------------------
+
+local args = {
+    [1] = "Crystal Chunk"
+}
+
+game:GetService("ReplicatedStorage").Events.DropBagItem:FireServer(unpack(args))
+local args = {
+    [1] = "Gold"
+}
+
+game:GetService("ReplicatedStorage").Events.DropBagItem:FireServer(unpack(args))
+
+--------------------------------------------------------------------------------------
+
+local args = {
+    [1] = "Log"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+
+local args = {
+    [1] = "Leaves"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Wood"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Hide"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Bluefruit"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Berry"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Bloodfruit"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Jelly"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+
+--------------------------------------------------------------------------------------
+
+local args = {
+    [1] = "Crystal Chunk"
+}
+
+game:GetService("ReplicatedStorage").Events.DropBagItem:FireServer(unpack(args))
+local args = {
+    [1] = "Gold"
+}
+
+game:GetService("ReplicatedStorage").Events.DropBagItem:FireServer(unpack(args))
+
+--------------------------------------------------------------------------------------
+
+local args = {
+    [1] = "Log"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+
+local args = {
+    [1] = "Leaves"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Wood"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Hide"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Bluefruit"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Berry"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Bloodfruit"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+local args = {
+    [1] = "Jelly"
+}
+
+game:GetService("ReplicatedStorage").Events.UseBagltem:FireServer(unpack(args))
+
+--------------------------------------------------------------------------------------
+
+local args = {
+    [1] = "Crystal Chunk"
+}
+
+game:GetService("ReplicatedStorage").Events.DropBagItem:FireServer(unpack(args))
+local args = {
+    [1] = "Gold"
+}
+
+game:GetService("ReplicatedStorage").Events.DropBagItem:FireServer(unpack(args))
+
+--------------------------------------------------------------------------------------
+
+local args = {
+    [1] = "Log"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+
+local args = {
+    [1] = "Leaves"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Wood"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+local args = {
+    [1] = "Hide"
+}
+
+game:GetService("ReplicatedStorage").Events.PurchaseFromShop:FireServer(unpack(args))
+
+    task.wait()
+end
